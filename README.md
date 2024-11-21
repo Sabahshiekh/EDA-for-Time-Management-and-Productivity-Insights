@@ -1,0 +1,2 @@
+# EDA-for-Time-Management-and-Productivity-Insights
+This script performs exploratory data analysis (EDA) on a dataset   named "Time Management and Productivity Insights.csv".  It uses pandas  for data manipulation, matplotlib and seaborn for visualization. The script currently reads and prints the dataset.  Further EDA steps  (e.g., data cleaning, summary statistics, visualizations) could be added.
